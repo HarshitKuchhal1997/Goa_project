@@ -1,0 +1,25 @@
+.container{
+    text-align: center;
+    margin-top: -55px;
+    font-size: 1.5rem;
+    margin-right: 20px;
+}
+
+.link{
+    border: 2px solid black;
+    height: 2.2rem;
+    width: 5rem;
+    font-size: larger;
+    margin-left: 88%;
+    margin-top: -34px;
+}
+
+
+video{
+    margin-top: 70px;
+}
+p{
+    font-size: large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}
